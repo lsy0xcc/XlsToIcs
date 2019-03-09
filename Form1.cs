@@ -277,7 +277,7 @@ namespace XlsToIcs
                         }
                         else
                         {
-                            for (int i = int.Parse(match.Groups[2].Value); i < int.Parse(match.Groups[3].Value); i++)
+                            for (int i = int.Parse(match.Groups[2].Value); i <= int.Parse(match.Groups[3].Value); i++)
                             {
                                 if ((i % 2 == 0 && even) || (i % 2 == 1 && odd))
                                 {

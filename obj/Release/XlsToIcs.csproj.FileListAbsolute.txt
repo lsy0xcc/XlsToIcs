@@ -1,0 +1,5 @@
+D:\Program\CSharp\XlsToIcs\XlsToIcs\obj\Release\XlsToIcs.csprojAssemblyReference.cache
+D:\Program\CSharp\XlsToIcs\XlsToIcs\obj\Release\XlsToIcs.Form1.resources
+D:\Program\CSharp\XlsToIcs\XlsToIcs\obj\Release\XlsToIcs.Properties.Resources.resources
+D:\Program\CSharp\XlsToIcs\XlsToIcs\obj\Release\XlsToIcs.csproj.GenerateResource.cache
+D:\Program\CSharp\XlsToIcs\XlsToIcs\obj\Release\XlsToIcs.csproj.CoreCompileInputs.cache
